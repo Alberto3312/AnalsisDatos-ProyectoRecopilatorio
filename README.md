@@ -8,4 +8,6 @@ Lo importante es adquirir experiencia de trabajo con datos. Realmente no importa
 
 El dataset contiene una columna "rating" que almacena la clasificación ESRB de cada juego. El Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
 
-El proyecto tuvo como finalidad analizar los datos, transformar y limpiar los datos previamente analizados, y visualizarlos en forma de gráficas. Proyecto dentro de los primeras tareas que sirvió para desarrollar tecnicas de un analista de datos. El proyecto se ejecuta en Jupyter Notebooks y se usaron herramientas como python, 
+El proyecto tuvo como finalidad analizar los datos, transformar y limpiar los datos previamente analizados, y visualizarlos en forma de gráficas. Hubo tareas como identificar los datos que podrían no ser requeridos, la transformacion del tipo de dato, los datos duplicados y nulos, visualizar las ventas por plataformas asi como visualizar diagramas de caja, gráficos de dispersión asi como pruebas de hipotesis usando el t-test para pruebas independientes.
+
+Proyecto dentro de los primeras tareas que sirvió para desarrollar tecnicas de un analista de datos. El proyecto se ejecuta en Jupyter Notebooks y se usaron herramientas como python, pandas, numpy, matplotlib.pyplot, seaborn, scipy - stats.
